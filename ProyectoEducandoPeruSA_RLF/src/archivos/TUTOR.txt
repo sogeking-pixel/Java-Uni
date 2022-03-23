@@ -1,0 +1,13 @@
+1112      PULIDO         120       
+1113      PERALTA        130       
+1114      CASTILLO       150       
+1115      MELQUIADES     200       
+1116      CHERO          140       
+1117      GUTIERREZ      150       
+1118      ORLANDO        180       
+1119      EDWIN          140       
+1120      MARTEL         130       
+1130      CORONEL        400       
+                                   
+                                   
+AS        A              A         

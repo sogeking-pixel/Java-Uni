@@ -1,0 +1,6 @@
+9784      ARCHIVOS            190    1         
+1473      GRAFICA             200    2         
+5478      ALGORITMOS          220    4         
+1447      EDD                 220    6         
+                                     1         
+1         1                   1      9         
